@@ -1,0 +1,2 @@
+# baseparcial
+Consignas de examen
