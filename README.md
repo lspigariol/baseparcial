@@ -1,5 +1,10 @@
-Parcial Funcional
+# TP Funcional
 
+## Consigna:
+https://docs.google.com/document/d/11Y6fzZYElso-us6W7sAbsbF-VoxG4EVvVj1V3V0ySbo/edit?usp=sharing
 
-Consigna (VIERNES TARDE): 
-https://docs.google.com/document/d/112DPXmoPi3B_ZZpGXRCDUseWaA10TGZ1zUqv7z4TP7Y/edit?ts=5b0980b0#
+## Integrantes:
+
+*
+*
+*
