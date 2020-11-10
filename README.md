@@ -1,5 +1,4 @@
-# TP Logico
+# Recu Funcional
 
 ## Consigna:
-https://docs.google.com/document/d/1S0GzdfRDc8Hm4C84I7FO1WBhfkRt35zT8oXWdQsPW-o/edit?usp=sharing
-
+https://docs.google.com/document/d/1kmW0wJriYMQXoKUYg1VAA2Md4xjhZA6OXxNF2cBuaBI/edit
